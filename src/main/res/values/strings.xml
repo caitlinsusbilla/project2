@@ -24,4 +24,12 @@
     <string name="back">Back</string>
     <string name="update_classes">Update Classes</string>
     <string name="update_a_class">Update a Class</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="create_username">Username</string>
+    <string name="enter_a_username">Enter a username</string>
+    <string name="create_password">Create Password</string>
+    <string name="enter_a_password">Enter a password</string>
+    <string name="create_account">Create Account</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="re_enter_password_verification">Re-enter password</string>
 </resources>
