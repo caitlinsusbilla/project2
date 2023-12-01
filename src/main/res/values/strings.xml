@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">338Project2_groovy</string>
+    <string name="login">Login</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="enter_username_login">Enter username</string>
+    <string name="enter_username">Enter username</string>
+    <string name="grade_assignment_tracker">Grade / Assignment Tracker</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login_loginPage">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="hello_admin">Hello Admin!</string>
+    <string name="sign_out">Sign out</string>
+    <string name="view_change_classes">View Classes</string>
+    <string name="add_a_class">Add a Class</string>
+    <string name="class_name">Class Name:</string>
+    <string name="grade">Grade:</string>
+    <string name="add_a_class_add">Add a Class</string>
+    <string name="enter_class_name">Enter class name</string>
+    <string name="enter_class_grade">Enter class grade</string>
+    <string name="add_class">Add Class</string>
+    <string name="your_classes">Your Classes</string>
+    <string name="back">Back</string>
+    <string name="update_classes">Update Classes</string>
+    <string name="update_a_class">Update a Class</string>
+</resources>
