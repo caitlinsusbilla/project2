@@ -32,4 +32,8 @@
     <string name="create_account">Create Account</string>
     <string name="re_enter_password">Re-enter password</string>
     <string name="re_enter_password_verification">Re-enter password</string>
+    <string name="edit_user_login">Edit User Login</string>
+    <string name="delete_a_user">Delete a User</string>
+    <string name="adminBack">Back</string>
+    <string name="delete_a_user_account">Delete a User Account</string>
 </resources>

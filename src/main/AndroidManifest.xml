@@ -13,6 +13,15 @@
         android:theme="@style/Theme._338Project2_groovy"
         tools:targetApi="31">
         <activity
+            android:name=".editUser"
+            android:exported="false" />
+        <activity
+            android:name=".deleteUser"
+            android:exported="false" />
+        <activity
+            android:name=".adminActivity"
+            android:exported="false" />
+        <activity
             android:name=".updateClass"
             android:exported="false" />
         <activity
