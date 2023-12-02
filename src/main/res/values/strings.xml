@@ -36,4 +36,8 @@
     <string name="delete_a_user">Delete a User</string>
     <string name="adminBack">Back</string>
     <string name="delete_a_user_account">Delete a User Account</string>
+    <string name="edit_user_information">Edit User Information</string>
+    <string name="edit_username">Edit Username</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="update_user">Update User</string>
 </resources>
